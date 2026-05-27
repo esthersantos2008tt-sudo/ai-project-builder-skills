@@ -1,0 +1,1038 @@
+{
+  "version": "1.0.0",
+  "updatedAt": "2026-05-27T20:28:35.988Z",
+  "categories": [
+    {
+      "label": "UX/UI & Design",
+      "icon": "🎨",
+      "subcategories": [
+        {
+          "label": "Ferramentas de Design",
+          "skills": [
+            {
+              "name": "Figma",
+              "url": "https://www.figma.com",
+              "keywords": [
+                "figma",
+                "design",
+                "protótipo",
+                "layout",
+                "wireframe",
+                "ui design",
+                "mockup",
+                "componente visual",
+                "interface design"
+              ]
+            },
+            {
+              "name": "Framer",
+              "url": "https://www.framer.com",
+              "keywords": [
+                "framer",
+                "design interativo",
+                "animação web",
+                "protótipo",
+                "web design",
+                "landing page"
+              ]
+            },
+            {
+              "name": "Penpot",
+              "url": "https://penpot.app",
+              "keywords": [
+                "penpot",
+                "design open source",
+                "protótipo",
+                "svg",
+                "layout"
+              ]
+            },
+            {
+              "name": "Rive",
+              "url": "https://rive.app",
+              "keywords": [
+                "rive",
+                "animação",
+                "animação interativa",
+                "motion design",
+                "animacao",
+                "micro animação"
+              ]
+            },
+            {
+              "name": "LottieFiles",
+              "url": "https://lottiefiles.com",
+              "keywords": [
+                "lottie",
+                "lottiefiles",
+                "animação",
+                "json animation",
+                "svg animation",
+                "micro animação",
+                "loading animation"
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Recursos GitHub",
+          "skills": [
+            {
+              "name": "Awesome Design Resources",
+              "url": "https://github.com/bradtraversy/design-resources-for-developers",
+              "keywords": [
+                "design resources",
+                "recursos design",
+                "cores",
+                "fontes",
+                "ícones",
+                "inspiração visual"
+              ]
+            },
+            {
+              "name": "Developer Portfolios Inspiration",
+              "url": "https://github.com/emmabostian/developer-portfolios",
+              "keywords": [
+                "portfólio",
+                "portfolio",
+                "developer portfolio",
+                "página pessoal",
+                "curriculo web"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Front-end",
+      "icon": "💻",
+      "subcategories": [
+        {
+          "label": "Frameworks e UI",
+          "skills": [
+            {
+              "name": "React",
+              "url": "https://react.dev",
+              "keywords": [
+                "react",
+                "componente",
+                "hook",
+                "jsx",
+                "estado",
+                "virtual dom",
+                "react native",
+                "props",
+                "state"
+              ]
+            },
+            {
+              "name": "Next.js",
+              "url": "https://nextjs.org",
+              "keywords": [
+                "next.js",
+                "nextjs",
+                "ssr",
+                "ssg",
+                "app router",
+                "pages router",
+                "server components",
+                "api routes"
+              ]
+            },
+            {
+              "name": "Vue.js",
+              "url": "https://vuejs.org",
+              "keywords": [
+                "vue",
+                "vuejs",
+                "vue.js",
+                "composable",
+                "template",
+                "reactivity",
+                "vuex",
+                "pinia"
+              ]
+            },
+            {
+              "name": "Nuxt",
+              "url": "https://nuxt.com",
+              "keywords": [
+                "nuxt",
+                "nuxtjs",
+                "vue ssr",
+                "vue fullstack",
+                "nuxt 3",
+                "auto-imports"
+              ]
+            },
+            {
+              "name": "Svelte",
+              "url": "https://svelte.dev",
+              "keywords": [
+                "svelte",
+                "sveltekit",
+                "compilador",
+                "reactive",
+                "svelte component"
+              ]
+            },
+            {
+              "name": "Tailwind CSS",
+              "url": "https://tailwindcss.com",
+              "keywords": [
+                "tailwind",
+                "tailwindcss",
+                "utility-first",
+                "css framework",
+                "design system",
+                "responsive",
+                "dark mode"
+              ]
+            },
+            {
+              "name": "shadcn/ui",
+              "url": "https://ui.shadcn.com",
+              "keywords": [
+                "shadcn",
+                "shadcn/ui",
+                "componente",
+                "ui library",
+                "radix",
+                "copy paste",
+                "componente ui"
+              ]
+            },
+            {
+              "name": "Material UI",
+              "url": "https://mui.com",
+              "keywords": [
+                "material ui",
+                "mui",
+                "material design",
+                "google design",
+                "componente material"
+              ]
+            },
+            {
+              "name": "Chakra UI",
+              "url": "https://chakra-ui.com",
+              "keywords": [
+                "chakra",
+                "chakra ui",
+                "componente",
+                "ui library",
+                "acessível",
+                "acessibilidade"
+              ]
+            },
+            {
+              "name": "Framer Motion",
+              "url": "https://www.framer.com/motion",
+              "keywords": [
+                "framer motion",
+                "animação",
+                "animacao",
+                "gesture",
+                "transition",
+                "react animation",
+                "motion"
+              ]
+            },
+            {
+              "name": "Three.js",
+              "url": "https://threejs.org",
+              "keywords": [
+                "three.js",
+                "threejs",
+                "3d",
+                "webgl",
+                "3d web",
+                "cena 3d",
+                "modelo 3d"
+              ]
+            },
+            {
+              "name": "GSAP",
+              "url": "https://gsap.com",
+              "keywords": [
+                "gsap",
+                "greensock",
+                "animação",
+                "timeline",
+                "scrolltrigger",
+                "animacao complexa"
+              ]
+            },
+            {
+              "name": "Zustand",
+              "url": "https://zustand-demo.pmnd.rs",
+              "keywords": [
+                "zustand",
+                "state management",
+                "gerenciamento estado",
+                "store",
+                "estado global"
+              ]
+            },
+            {
+              "name": "Redux",
+              "url": "https://redux.js.org",
+              "keywords": [
+                "redux",
+                "redux toolkit",
+                "state management",
+                "gerenciamento estado",
+                "flux",
+                "store"
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Recursos GitHub",
+          "skills": [
+            {
+              "name": "Awesome Frontend Development",
+              "url": "https://github.com/sindresorhus/awesome",
+              "keywords": [
+                "frontend",
+                "recursos frontend",
+                "awesome",
+                "bibliotecas",
+                "ferramentas frontend"
+              ]
+            },
+            {
+              "name": "Developer Roadmap",
+              "url": "https://github.com/kamranahmedse/developer-roadmap",
+              "keywords": [
+                "roadmap",
+                "carreira",
+                "aprender",
+                "caminho",
+                "desenvolvedor",
+                "guia estudo"
+              ]
+            },
+            {
+              "name": "System Design 101",
+              "url": "https://github.com/ByteByteGoHq/system-design-101",
+              "keywords": [
+                "system design",
+                "arquitetura",
+                "escalabilidade",
+                "design de sistema",
+                "microserviço"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Back-end",
+      "icon": "⚙️",
+      "subcategories": [
+        {
+          "label": "Linguagens e Frameworks",
+          "skills": [
+            {
+              "name": "Node.js",
+              "url": "https://nodejs.org",
+              "keywords": [
+                "node",
+                "nodejs",
+                "node.js",
+                "runtime",
+                "javascript server",
+                "npm",
+                "express"
+              ]
+            },
+            {
+              "name": "Python",
+              "url": "https://www.python.org",
+              "keywords": [
+                "python",
+                "django",
+                "flask",
+                "fastapi",
+                "script",
+                "backend python"
+              ]
+            },
+            {
+              "name": "Go",
+              "url": "https://go.dev",
+              "keywords": [
+                "go",
+                "golang",
+                "concorrência",
+                "goroutine",
+                "go server",
+                "golang api"
+              ]
+            },
+            {
+              "name": "Rust",
+              "url": "https://www.rust-lang.org",
+              "keywords": [
+                "rust",
+                "cargo",
+                "segurança memória",
+                "performance",
+                "rust backend",
+                "webassembly"
+              ]
+            },
+            {
+              "name": "NestJS",
+              "url": "https://nestjs.com",
+              "keywords": [
+                "nestjs",
+                "nest",
+                "typescript backend",
+                "decorator",
+                "module",
+                "controller",
+                "dependency injection"
+              ]
+            },
+            {
+              "name": "FastAPI",
+              "url": "https://fastapi.tiangolo.com",
+              "keywords": [
+                "fastapi",
+                "python api",
+                "pydantic",
+                "async python",
+                "openapi",
+                "swagger"
+              ]
+            },
+            {
+              "name": "Express.js",
+              "url": "https://expressjs.com",
+              "keywords": [
+                "express",
+                "expressjs",
+                "node framework",
+                "middleware",
+                "roteamento",
+                "api node"
+              ]
+            },
+            {
+              "name": "Django",
+              "url": "https://www.djangoproject.com",
+              "keywords": [
+                "django",
+                "python framework",
+                "orm",
+                "admin panel",
+                "django rest",
+                "modelo mvt"
+              ]
+            },
+            {
+              "name": "Spring Boot",
+              "url": "https://spring.io/projects/spring-boot",
+              "keywords": [
+                "spring boot",
+                "java",
+                "spring framework",
+                "microservice",
+                "java backend"
+              ]
+            },
+            {
+              "name": "GraphQL",
+              "url": "https://graphql.org",
+              "keywords": [
+                "graphql",
+                "query",
+                "mutation",
+                "schema",
+                "resolver",
+                "apollo",
+                "relay"
+              ]
+            },
+            {
+              "name": "gRPC",
+              "url": "https://grpc.io",
+              "keywords": [
+                "grpc",
+                "protocol buffer",
+                "protobuf",
+                "rpc",
+                "microservice comunicação",
+                "streaming rpc"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Banco de Dados",
+      "icon": "🗄️",
+      "subcategories": [
+        {
+          "label": "Bancos de Dados",
+          "skills": [
+            {
+              "name": "PostgreSQL",
+              "url": "https://www.postgresql.org",
+              "keywords": [
+                "postgresql",
+                "postgres",
+                "sql",
+                "relacional",
+                "banco dados",
+                "query",
+                "pg"
+              ]
+            },
+            {
+              "name": "MySQL",
+              "url": "https://www.mysql.com",
+              "keywords": [
+                "mysql",
+                "sql",
+                "relacional",
+                "banco dados",
+                "mariadb",
+                "query mysql"
+              ]
+            },
+            {
+              "name": "MongoDB",
+              "url": "https://www.mongodb.com",
+              "keywords": [
+                "mongodb",
+                "mongo",
+                "nosql",
+                "documentos",
+                "bson",
+                "atlas",
+                "mongose"
+              ]
+            },
+            {
+              "name": "Redis",
+              "url": "https://redis.io",
+              "keywords": [
+                "redis",
+                "cache",
+                "in-memory",
+                "session",
+                "fila",
+                "pub/sub",
+                "rate limit"
+              ]
+            },
+            {
+              "name": "Elasticsearch",
+              "url": "https://www.elastic.co/elasticsearch",
+              "keywords": [
+                "elasticsearch",
+                "elastic",
+                "busca",
+                "search engine",
+                "full text",
+                "log analytics"
+              ]
+            },
+            {
+              "name": "Prisma ORM",
+              "url": "https://www.prisma.io",
+              "keywords": [
+                "prisma",
+                "orm",
+                "schema",
+                "migration",
+                "database typescript",
+                "prisma client"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "DevOps / Infraestrutura",
+      "icon": "🚀",
+      "subcategories": [
+        {
+          "label": "Ferramentas DevOps",
+          "skills": [
+            {
+              "name": "Docker",
+              "url": "https://www.docker.com",
+              "keywords": [
+                "docker",
+                "container",
+                "dockerfile",
+                "docker-compose",
+                "imagem",
+                "contêiner",
+                "isolamento"
+              ]
+            },
+            {
+              "name": "Kubernetes",
+              "url": "https://kubernetes.io",
+              "keywords": [
+                "kubernetes",
+                "k8s",
+                "orchestration",
+                "pod",
+                "service",
+                "deployment",
+                "cluster"
+              ]
+            },
+            {
+              "name": "NGINX",
+              "url": "https://nginx.org",
+              "keywords": [
+                "nginx",
+                "reverse proxy",
+                "load balancer",
+                "servidor web",
+                "proxy reverso"
+              ]
+            },
+            {
+              "name": "GitHub Actions",
+              "url": "https://github.com/features/actions",
+              "keywords": [
+                "github actions",
+                "ci/cd",
+                "pipeline",
+                "workflow",
+                "automação",
+                "deploy automático"
+              ]
+            },
+            {
+              "name": "Terraform",
+              "url": "https://www.terraform.io",
+              "keywords": [
+                "terraform",
+                "iac",
+                "infraestrutura código",
+                "provisionamento",
+                "aws infra",
+                "cloudformation"
+              ]
+            },
+            {
+              "name": "Cloudflare",
+              "url": "https://www.cloudflare.com",
+              "keywords": [
+                "cloudflare",
+                "cdn",
+                "dns",
+                "segurança",
+                "firewall",
+                "worker",
+                "page",
+                "waf"
+              ]
+            },
+            {
+              "name": "AWS",
+              "url": "https://aws.amazon.com",
+              "keywords": [
+                "aws",
+                "amazon",
+                "ec2",
+                "s3",
+                "lambda",
+                "rds",
+                "cloudfront",
+                "amazons3"
+              ]
+            },
+            {
+              "name": "Vercel",
+              "url": "https://vercel.com",
+              "keywords": [
+                "vercel",
+                "deploy",
+                "hosting",
+                "serverless",
+                "edge",
+                "next.js deploy",
+                "frontend deploy"
+              ]
+            },
+            {
+              "name": "Coolify",
+              "url": "https://coolify.io",
+              "keywords": [
+                "coolify",
+                "self-hosted",
+                "heroku alternative",
+                "deploy",
+                "paas",
+                "vps"
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Recursos GitHub",
+          "skills": [
+            {
+              "name": "DevOps Exercises",
+              "url": "https://github.com/bregman-arie/devops-exercises",
+              "keywords": [
+                "devops",
+                "exercícios",
+                "linux",
+                "docker",
+                "kubernetes",
+                "exercicios"
+              ]
+            },
+            {
+              "name": "Awesome DevOps",
+              "url": "https://github.com/ramitsurana/awesome-kubernetes",
+              "keywords": [
+                "kubernetes",
+                "k8s",
+                "awesome",
+                "recursos kubernetes",
+                "ferramentas k8s"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "QA / Testes",
+      "icon": "🧪",
+      "subcategories": [
+        {
+          "label": "Ferramentas de Teste",
+          "skills": [
+            {
+              "name": "Playwright",
+              "url": "https://playwright.dev",
+              "keywords": [
+                "playwright",
+                "e2e",
+                "end-to-end",
+                "teste",
+                "automação",
+                "browser test",
+                "cross browser"
+              ]
+            },
+            {
+              "name": "Cypress",
+              "url": "https://www.cypress.io",
+              "keywords": [
+                "cypress",
+                "e2e",
+                "teste",
+                "automação",
+                "frontend test",
+                "integration test"
+              ]
+            },
+            {
+              "name": "Jest",
+              "url": "https://jestjs.io",
+              "keywords": [
+                "jest",
+                "unit test",
+                "teste unitário",
+                "javascript test",
+                "snapshot",
+                "mock"
+              ]
+            },
+            {
+              "name": "Vitest",
+              "url": "https://vitest.dev",
+              "keywords": [
+                "vitest",
+                "unit test",
+                "teste unitário",
+                "vite",
+                "fast test",
+                "typescript test"
+              ]
+            },
+            {
+              "name": "Selenium",
+              "url": "https://www.selenium.dev",
+              "keywords": [
+                "selenium",
+                "webdriver",
+                "automação",
+                "cross browser",
+                "e2e legacy",
+                "browser automation"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Inteligência Artificial",
+      "icon": "🤖",
+      "subcategories": [
+        {
+          "label": "Plataformas IA",
+          "skills": [
+            {
+              "name": "OpenAI Platform",
+              "url": "https://platform.openai.com",
+              "keywords": [
+                "openai",
+                "gpt",
+                "chatgpt",
+                "api openai",
+                "embedding",
+                "fine-tuning",
+                "dall-e",
+                "whisper"
+              ]
+            },
+            {
+              "name": "LangChain",
+              "url": "https://www.langchain.com",
+              "keywords": [
+                "langchain",
+                "llm chain",
+                "agent",
+                "rag",
+                "retrieval",
+                "vector store",
+                "prompt chain"
+              ]
+            },
+            {
+              "name": "Pinecone",
+              "url": "https://www.pinecone.io",
+              "keywords": [
+                "pinecone",
+                "vector database",
+                "embedding",
+                "busca vetorial",
+                "similarity search"
+              ]
+            },
+            {
+              "name": "Weaviate",
+              "url": "https://weaviate.io",
+              "keywords": [
+                "weaviate",
+                "vector database",
+                "embedding",
+                "busca semântica",
+                "graphql vector"
+              ]
+            },
+            {
+              "name": "Qdrant",
+              "url": "https://qdrant.tech",
+              "keywords": [
+                "qdrant",
+                "vector database",
+                "embedding",
+                "busca vetorial",
+                "high performance vector"
+              ]
+            },
+            {
+              "name": "ChromaDB",
+              "url": "https://www.trychroma.com",
+              "keywords": [
+                "chromadb",
+                "chroma",
+                "vector database",
+                "embedding",
+                "local vector",
+                "ai database"
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Recursos GitHub",
+          "skills": [
+            {
+              "name": "Awesome Claude Skills",
+              "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+              "keywords": [
+                "claude",
+                "claude skills",
+                "ai agent",
+                "claude ai",
+                "skills IA"
+              ]
+            },
+            {
+              "name": "Firecrawl",
+              "url": "https://github.com/firecrawl/firecrawl",
+              "keywords": [
+                "firecrawl",
+                "web scraping",
+                "crawl",
+                "crawl ia",
+                "scraping",
+                "extração dados web"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Segurança / Cybersecurity",
+      "icon": "🔒",
+      "subcategories": [
+        {
+          "label": "Ferramentas de Segurança",
+          "skills": [
+            {
+              "name": "OWASP",
+              "url": "https://owasp.org",
+              "keywords": [
+                "owasp",
+                "segurança",
+                "vulnerabilidade",
+                "top 10",
+                "security",
+                "xss",
+                "sql injection",
+                "csrf"
+              ]
+            },
+            {
+              "name": "Snyk",
+              "url": "https://snyk.io",
+              "keywords": [
+                "snyk",
+                "dependency vulnerability",
+                "segurança dependência",
+                "container security",
+                "iac security"
+              ]
+            },
+            {
+              "name": "Trivy",
+              "url": "https://trivy.dev",
+              "keywords": [
+                "trivy",
+                "scanner",
+                "vulnerability scanner",
+                "container scan",
+                "security scan",
+                "devsecops"
+              ]
+            },
+            {
+              "name": "SonarQube",
+              "url": "https://www.sonarsource.com/products/sonarqube",
+              "keywords": [
+                "sonarqube",
+                "code quality",
+                "quality gate",
+                "static analysis",
+                "code smell",
+                "technical debt"
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Recursos GitHub",
+          "skills": [
+            {
+              "name": "Bumblebee",
+              "url": "https://github.com/perplexityai/bumblebee",
+              "keywords": [
+                "bumblebee",
+                "segurança",
+                "security tool",
+                "perplexity",
+                "ai security"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "SEO / Performance",
+      "icon": "📈",
+      "subcategories": [
+        {
+          "label": "Ferramentas SEO",
+          "skills": [
+            {
+              "name": "Google Lighthouse",
+              "url": "https://developer.chrome.com/docs/lighthouse",
+              "keywords": [
+                "lighthouse",
+                "performance",
+                "acessibilidade",
+                "seo",
+                "pwa",
+                "core web vitals",
+                "auditoria web"
+              ]
+            },
+            {
+              "name": "Ahrefs",
+              "url": "https://ahrefs.com",
+              "keywords": [
+                "ahrefs",
+                "seo",
+                "backlink",
+                "keyword",
+                "rank",
+                "análise competidor",
+                "pesquisa palavra-chave"
+              ]
+            },
+            {
+              "name": "Semrush",
+              "url": "https://www.semrush.com",
+              "keywords": [
+                "semrush",
+                "seo",
+                "marketing digital",
+                "keyword",
+                "análise",
+                "competitor analysis"
+              ]
+            },
+            {
+              "name": "Google Search Console",
+              "url": "https://search.google.com/search-console",
+              "keywords": [
+                "search console",
+                "google search",
+                "indexação",
+                "sitemap",
+                "search analytics",
+                "google indexing"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
